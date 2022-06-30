@@ -45,7 +45,6 @@ ${readmore}
  • ${prefix}donate
  • ${prefix}dashboard
  • ${prefix}owner
- • ${prefix}groupkaysa
  • ${prefix}cekdrive
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
@@ -70,13 +69,6 @@ ${readmore}
  • ${prefix}spamcall
  • ${prefix}say
  • ${prefix}translate
-
-*ANONYMOUS CHATS*
- • ${prefix}anonymous
- • ${prefix}start
- • ${prefix}next
- • ${prefix}stop
- • ${prefix}sendprofile
 
 *STORE MENU*
  • ${prefix}list
@@ -146,134 +138,11 @@ ${readmore}
  • ${prefix}hidetag
  • ${prefix}checksewa
 
-*GAME MENU*
- • ${prefix}tictactoe
- • ${prefix}delttt
- • ${prefix}tebakgambar
- • ${prefix}kuis
- • ${prefix}tebaklagu
- • ${prefix}family100
- • ${prefix}nyerah
- • ${prefix}casino
- • ${prefix}delcasino
- • ${prefix}akinator
- • ${prefix}cancelakinator
-
-*KERANG MENU*
- • ${prefix}apakah
- • ${prefix}bisakah
- • ${prefix}kapankah
- • ${prefix}bagaimanakah
- • ${prefix}rate
- • ${prefix}gantengcek
- • ${prefix}cantikcek
- • ${prefix}sangecek
- • ${prefix}gaycek
- • ${prefix}lesbicek
- • ${prefix}cekbapak
-
 *SEARCH MENU*
  • ${prefix}nickff
  • ${prefix}nickml
  • ${prefix}nickpubg
  • ${prefix}nickdomino
- • ${prefix}lirik
- • ${prefix}grupwa
- • ${prefix}pinterest
- • ${prefix}ytsearch
- • ${prefix}whatmusic
- • ${prefix}igstalk
- • ${prefix}searchbyimage
-
-*RANDOM MENU*
- • ${prefix}quotes
- • ${prefix}cecan
- • ${prefix}cogan
- • ${prefix}waifu
- • ${prefix}meme
- • ${prefix}darkjoke
- • ${prefix}couple
-
-*TEXTPRO MENU*
- • ${prefix}glitch
- • ${prefix}pornhub
- • ${prefix}harrypotter
- • ${prefix}graffiti
- • ${prefix}3dspace
- • ${prefix}lionlogo
- • ${prefix}bearlogo
- • ${prefix}wolflogo
- • ${prefix}candy
- • ${prefix}christmas
- • ${prefix}3dchristmas
- • ${prefix}sparklechristmas
- • ${prefix}deepsea
- • ${prefix}scifi
- • ${prefix}rainbow
- • ${prefix}waterpipe
- • ${prefix}spooky
- • ${prefix}pencil
- • ${prefix}circuit
- • ${prefix}discovery
- • ${prefix}metalic
- • ${prefix}fiction
- • ${prefix}demon
- • ${prefix}transformer
- • ${prefix}berry
- • ${prefix}thunder
- • ${prefix}magma
- • ${prefix}neonlight
- • ${prefix}brokenglass
- • ${prefix}papercut
- • ${prefix}watercolor
- • ${prefix}multicolor
- • ${prefix}neondevil
- • ${prefix}underwater
- • ${prefix}graffitibike
- • ${prefix}snow
- • ${prefix}cloud
- • ${prefix}honey
- • ${prefix}ice
- • ${prefix}fruitjuice
- • ${prefix}biscuit
- • ${prefix}wood
- • ${prefix}chocolate
- • ${prefix}strawberry
- • ${prefix}matrix
- • ${prefix}blood
- • ${prefix}droopwater
- • ${prefix}toxic
- • ${prefix}larva
- • ${prefix}rock
- • ${prefix}bloodglas
- • ${prefix}hallowen
- • ${prefix}darkgold
- • ${prefix}joker
- • ${prefix}wicker
- • ${prefix}firework
- • ${prefix}skeleton
- • ${prefix}blackpink
- • ${prefix}sand
- • ${prefix}glue
- • ${prefix}1917
- • ${prefix}leaves
-
-*BALANCE MENU*
- • ${prefix}topglobal
- • ${prefix}toplocal
- • ${prefix}buylimit
- • ${prefix}buyglimit
- • ${prefix}transfer
- • ${prefix}limit
- • ${prefix}balance
-
-*BAILEYS*
- • ${prefix}fitnah
- • ${prefix}getquoted
- • ${prefix}fakehidetag
- • ${prefix}react
- • ${prefix}setcmd
- • ${prefix}delcmd
 
 *OWNERS MENU*
  • > evalcode
